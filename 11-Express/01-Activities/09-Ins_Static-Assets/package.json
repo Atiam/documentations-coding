@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "This example includes two `server` files. The first file, `server_static.js`, is designed to show how we can create `GET` routes for individual files. In the second example, `server.js`, we can accomplish the same functionality by implementing static middleware.",
+  "author": ""
+}
